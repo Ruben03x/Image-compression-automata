@@ -1,7 +1,6 @@
-# INFO
-- args[0] : gui mode "1" for gui, "0" no gui
-- args[1] : decompression "1", compression "2"
-- agrs[2] : multires mode "t" true, "f" false
-    -> args[3] : compression mode ("1" serpienski, "2" checkerboard, "3" reduction. Decompression resolution (any int))
-    -> args[4] : filepath
-- args[3] : filePath
+-Traverse Automaton function: utilized ChatGPT as a helping aid to understand the logic
+- Student "Kirby" and "Juanre" supplied resources for quadtrees and similiar aid on the group that supported my knowledge for this.
+- Generate sequences: used ChatGPT to aid me in creating this function, specifically how it can be done recursively
+- Compressions: was discussed a lot on the group and a lot of my inspiration derived from it
+- GUI: just a gui that helped for testing, used ChatGPT to help me set one up quickly
+- Find lightest quadrant: ChatGPT also helped with this mundane task
